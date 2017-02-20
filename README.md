@@ -1,2 +1,2 @@
 # alternative-extra
-Extra utilities for alternatives
+Extra utilities for alternative
